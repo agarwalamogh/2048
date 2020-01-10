@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:padding="10.0dip" android:shape="rectangle">
+            <solid android:color="#ffbbada0" />
+        </shape>
+    </item>
+    <item android:id="@id/cell_rect_template">
+        <shape android:padding="10.0dip" android:shape="rectangle">
+            <solid android:color="#ffeee4da" />
+            <corners android:radius="@dimen/cell_rectangle_radius" />
+        </shape>
+    </item>
+</layer-list>

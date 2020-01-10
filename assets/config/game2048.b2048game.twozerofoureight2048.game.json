@@ -1,0 +1,195 @@
+{
+    "promo.app.array": [
+        {
+            "app_name": "Guess The Brand - Logo Mania",
+            "app_id": 1,
+            "package_name": "guess.the.brand.logo.quiz.icomania",
+            "promo_desc": "Guess the brands from hundreds of logos!",
+            "icon_url": "http://lh5.googleusercontent.com/-gR5aptg3Zp4/UdbhfeM5jrI/AAAAAAAABkk/Yh_gipSM9jU/s800/256.png",
+            "icon_local_name": "guessthebrand_1.1.png",
+            "image_url": "http://lh5.googleusercontent.com/-gR5aptg3Zp4/UdbhfeM5jrI/AAAAAAAABkk/Yh_gipSM9jU/s800/256.png",
+            "image_local_name": "guessthebrand_1.1.png",
+            "app_store": 1,
+            "app_link": "http://fes-games.com/appu/gtb_0",
+            "enable_promo": true,
+            "can_interstitial": false,
+            "priority": 10,
+            "support_api_level": 9
+        },
+        {
+            "app_name": "Icomania - Guess The Icon",
+            "app_id": 16,
+            "package_name": "icomania.logoquiz.icon.a2048.a100balls.pianotile",
+            "promo_desc": "Guess more than 900 icons from all stunning cartoon images!",
+            "icon_url": "http://lh4.googleusercontent.com/-oXOuU7aAi9Y/U4B18oRZvcI/AAAAAAAACdA/nJQHG-tcDks/s800/256.png",
+            "icon_local_name": "icom_3_1.png",
+            "image_url": "http://lh4.googleusercontent.com/-oXOuU7aAi9Y/U4B18oRZvcI/AAAAAAAACdA/nJQHG-tcDks/s800/256.png",
+            "image_local_name": "icom_3_1.png",
+            "app_store": 1,
+            "app_link": "http://fes-games.com/appu/icom_3",
+            "enable_promo": true,
+            "can_interstitial": false,
+            "priority": 11,
+            "support_api_level": 9
+        },
+        {
+            "app_name": "Logo Quiz Ultimate",
+            "app_id": 8,
+            "package_name": "logo.quiz.icomania.guess.the.brand.a4pics1song",
+            "promo_desc": "Guess thousands of icons classified in 24 categories! More than 40 LEVELS!",
+            "icon_url": "http://lh4.googleusercontent.com/-Wm8eAzQKxXw/UqA8J7zQjPI/AAAAAAAABsc/dseBCxE4G1E/s800/256.png",
+            "icon_local_name": "gtb_2_1.png",
+            "image_url": "https://farm5.staticflickr.com/4376/35989277290_aacac4779a_o.png",
+            "image_local_name": "gtb_2_fg_1.png",
+            "app_store": 1,
+            "app_link": "http://fes-games.com/appu/gtb_2",
+            "enable_promo": true,
+            "can_interstitial": false,
+            "priority": 7,
+            "support_api_level": 9,
+            "gp_rating": "4.2",
+            "gp_rating_count": "(69,284)",
+            "ft_bk_color": "#518dff"
+        },
+        {
+            "app_name": "2048",
+            "app_id": 12,
+            "package_name": "game2048.b2048game.twozerofoureight2048.game",
+            "promo_desc": "Swipe to move all tiles. 2 tiles of same number will be merged! 2+2=4, 4+4=8, 8+8=16... Challenge 2048!",
+            "icon_url": "http://lh4.googleusercontent.com/-PB5dFM9pVNM/UzTcTvLhyhI/AAAAAAAACQ4/sXB-tt1Rs5k/s144/2-256.png",
+            "icon_local_name": "2048_1_1.png",
+            "image_url": "https://c1.staticflickr.com/5/4226/35360699985_d57b543e5a_o.png",
+            "image_local_name": "2048_1_fg_1.png",
+            "app_store": 1,
+            "app_link": "http://fes-games.com/appu/2048_1",
+            "enable_promo": true,
+            "can_interstitial": false,
+            "priority": 1,
+            "support_api_level": 9,
+            "gp_rating": "4.4",
+            "gp_rating_count": "(201,866)",
+            "ft_bk_color": "#f29f78"
+        },
+        {
+            "app_name": "What's The Word - 4 Pics 1 Word",
+            "app_id": 33,
+            "package_name": "whats.the.word",
+            "promo_desc": "What's the common word in 4 pictures?",
+            "icon_url": "https://lh4.googleusercontent.com/-VdXyEusVKO8/UbaEFw0iDmI/AAAAAAAABhs/IoPaNeR2vn0/s800/wtw_1_256.png",
+            "icon_local_name": "whats.the.word.1.png",
+            "image_url": "https://farm5.staticflickr.com/4486/37985580776_b5d452ef45_o.jpg",
+            "image_local_name": "whats.the.word.2.png",
+            "app_store": 1,
+            "app_link": "http://fes-games.com/appu/wstew",
+            "enable_promo": true,
+            "can_interstitial": false,
+            "priority": 93,
+            "support_api_level": 9
+        },
+        {
+            "app_name": "Car Logo Quiz",
+            "app_id": 10,
+            "package_name": "car.logoquiz.flappybird.logosquiz.icomania.sudoku.car.game",
+            "promo_desc": "Guess more than 250 car logos in this great Car Logo Quiz Game!",
+            "icon_url": "https://lh4.googleusercontent.com/-te5N8A_f7Bo/UwDAIVkSc9I/AAAAAAAABw8/CQn7bAArxjc/s800/256.png",
+            "icon_local_name": "logoquiz.car_2.promo.icon.1.png",
+            "image_url": "https://farm5.staticflickr.com/4466/38008021162_c751b6b9fb_o.jpg",
+            "image_local_name": "logoquiz.car_2.promo.icon.2.png",
+            "app_store": 1,
+            "app_link": "http://fes-games.com/appu/logoquizcar_2",
+            "enable_promo": true,
+            "can_interstitial": false,
+            "priority": 90,
+            "support_api_level": 9
+        }
+    ],
+    "client.devices.config": {
+	"gt_dvcs": ["ND1", "PL2_sprout"],
+	"disable_bannerad_groups": ["dg0003"],
+	"disable_interstitialad_groups": ["dg0003"],
+	"disable_rewardedvideoad_groups": ["dg0001","dg0002"],
+	"device_groups": [
+		{
+		    "group_id": "dg0001",
+		    "app_version": [127,128,129],
+		    "android_version": [22,23,25,26],
+		    "devices_info": [
+			"angler,Huawei,Nexus 6P"
+			,"HWLON,Huawei,Mate 9 Pro"
+			,"lavender,xiaomi,Redmi Note 7","dreamlteks,Samsung,Galaxy S8"
+			,"hero2lteskt,Samsung,Galaxy S7 Edge", "cancro,xiaomi,MI 4LTE", "C6603,Sony,Xperia Z", "shamu,Motorola,Nexus 6"
+			,"marlin,Google,Pixel XL","grouper,Asus,Nexus 7","hwALE-Q,Huawei,P7","grouper,Asus,Nexus 7"
+		    ]
+		},
+		{
+		    "group_id": "dg0002",
+		    "app_version": [127,128,129],
+		    "android_version": [25,28],
+		    "devices_info": [
+			"alldevices,0,0"
+			,"angler,Huawei,Nexus 6P", "HWLON,Huawei,Mate 9 Pro"
+			,"marlin,Google,Pixel XL", "pd1816,vivo,V1816A", "HWGRA,Huawei,P8"
+		    ]
+		},
+		{
+		    "group_id": "dg0003",
+		    "app_version": [127,128,129],
+		    "android_version": [28],
+		    "devices_info": [
+			"dreamlte,Samsung,Galaxy S8", "tissot_sprout,Xiaomi,Mi A1", "starlte,Samsung,Galaxy S9", "a10,Samsung,Galaxy A10", "daisy_sprout,Xiaomi,Mi A2 Lite"
+			,"onc,xiaomi,Redmi 7", "lavender,xiaomi,Redmi Note 7"
+			,"starqltesq,Samsung,Galaxy S9", "dreamqltesq,Samsung,Galaxy S8", "dreamlteks,Samsung,Galaxy S8", "dream2lte,Samsung,Galaxy S8+"
+			,"starlteks,Samsung,Galaxy S9", "ND1,Nokia,Nokia 5", "a10e,Samsung,Galaxy A10e", "PLE,Nokia,Nokia 6", "a30,Samsung,Galaxy A30", "whyred,Xiaomi,Redmi Note 5 Pro"
+			,"starqltecs,Samsung,Galaxy S9", "starqltechn,Samsung,Galaxy S9"
+		    ]
+		}
+	]
+    },
+    "config.validation": {"finish": "real_finish"},
+    "app.meta": {
+        "is_white_app": false,
+        "is_cdr_drt": false,
+        "is_cdr_drt_oa": false,
+        "is_ad_bnr_enb": true,
+        "is_house_ad_bnr_enb": false,
+        "is_ad_intst_enb": true,
+        "is_house_ad_intst_enb": true,
+        "is_atsh_inadt": false,
+        "is_house_ad_bbl_2nd_enb": false,
+        "is_video_ad_enb": false,
+        "is_native_ad_enb": false,
+        "hs_nativ_ad_type": 0,
+        "intst_ad_type_swt": 5,
+        "is_awd_inst_enb": false,
+        "timegap_showad": 150,
+        "intst_ad_intvl": 160,
+        "launch_int_ad_param": "3,30",
+        "house_ad_params": "0,0",
+        "daemon_task_type": 0,
+        "prj_custom_int_1": 1,
+        "prj_custom_int_2": 0,
+        "prj_custom_int_3": 0,
+        "md_version": 253
+    },
+    "intst.ads.ecpm": {
+        "admob_1": 25,
+        "admob_2": 24,
+        "admob_3": 9,
+        "admob_4": 0,
+        "admob_5": 0,
+        "admob_6": 0,
+        "fan_1": 11,
+        "fan_2": 0,
+        "fan_3": 0,
+        "unityva_1": 0,
+        "admob_rwva_1": 0,
+        "unity_rwva_1": 0,
+        "admob_bar_1": 35,
+        "admob_bar_2": 25,
+        "admob_bar_3": 15,
+        "fan_bar_1": 15,
+        "fan_bar_2": 0,
+        "fan_bar_3": 12,
+        "fan_bar_4": 0
+    }
+}

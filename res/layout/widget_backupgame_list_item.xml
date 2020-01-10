@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:tag="@string/flag_scale" android:background="@null" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:tag="@string/flag_scale" android:background="@null" android:layout_width="fill_parent" android:layout_height="132.0px">
+        <RelativeLayout android:tag="@string/flag_scale" android:background="@null" android:paddingLeft="3.0px" android:paddingTop="2.0px" android:paddingRight="3.0px" android:paddingBottom="2.0px" android:layout_width="fill_parent" android:layout_height="130.0px" android:layout_marginLeft="5.0px" android:layout_marginRight="5.0px" android:layout_centerHorizontal="true">
+            <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentLeft="true" android:layout_centerVertical="true">
+                <TextView android:textSize="23.0px" android:textStyle="bold" android:textColor="@color/moregames_app_title" android:id="@id/backup_item_time" android:tag="@string/flag_scale" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+                <TextView android:textSize="23.0px" android:textColor="@color/moregames_app_title" android:id="@id/backup_item_desc" android:tag="@string/flag_scale" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            </LinearLayout>
+            <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentRight="true" android:layout_centerVertical="true">
+                <Button android:textSize="30.0px" android:textStyle="bold" android:id="@id/btn_restore" android:tag="@string/flag_scale" android:background="@drawable/btn_round_corner_1" android:layout_width="63.0px" android:layout_height="63.0px" android:layout_marginRight="20.0px" android:text="@string/fa_cloud_download_noword" />
+                <Button android:textSize="30.0px" android:id="@id/btn_remove" android:tag="@string/flag_scale" android:background="@drawable/btn_round_corner_1" android:layout_width="63.0px" android:layout_height="63.0px" android:layout_marginRight="5.0px" android:text="@string/fa_trash_noword" />
+            </LinearLayout>
+        </RelativeLayout>
+        <LinearLayout android:orientation="horizontal" android:id="@id/more_games_item_underline" android:background="@color/gray" android:layout_width="fill_parent" android:layout_height="2.0px" />
+    </LinearLayout>
+</RelativeLayout>
